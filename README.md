@@ -4,7 +4,9 @@
 
 ## ===一键脚本搭建SS/SSR、V2ray、Brook、WireGuard服务器最新教程===
 
-一键脚本搭建 SS/SSR 服务器教程 （图文超详细，适合新手）
+[一键脚本搭建 SSR 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BASSR.md) （图文超详细，适合新手）
+
+[一键脚本搭建 SS 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/SS.md) （图文超详细）
 
 一键脚本搭建 V2ray 服务器教程 （图文超详细，适合新手）
 
