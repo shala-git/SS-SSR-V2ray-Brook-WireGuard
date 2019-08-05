@@ -8,11 +8,11 @@
 
 [一键脚本搭建 SS 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/SS.md) （图文超详细）
 
-一键脚本搭建 V2ray 服务器教程 （图文超详细，适合新手）
+[一键脚本搭建 V2ray 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAV2Ray.md) （图文超详细，适合新手）
 
 一键脚本搭建 Brook 服务器教程 （新的翻墙方式，速度更快）
 
-一键脚本搭建 WireGuard 服务器教程（新的翻墙方式，更安全）
+[一键脚本搭建 WireGuard 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAWireGuard.md)（新的翻墙方式，更安全）
 
 
 ## ===VPS推荐==
