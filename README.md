@@ -4,15 +4,15 @@
 
 ## ===一键脚本搭建SS/SSR、V2ray、Brook、WireGuard服务器最新教程===
 
-[一键脚本搭建 SSR 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BASSR.md) （图文超详细，适合新手）
+[一键脚本搭建 SSR 服务器教程](https://github.com/xiaobei2008/Shadowsocks/wiki/VPS-Vultr%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BASSR%E6%95%99%E7%A8%8B%EF%BC%88%E6%9C%80%E6%96%B0%E6%9C%80%E5%85%A8%E6%96%B9%E6%B3%95%EF%BC%89) （图文超详细，适合新手）
 
 [一键脚本搭建 SS 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/SS.md) （图文超详细）
 
-[一键脚本搭建 V2ray 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAV2Ray.md) （图文超详细，适合新手）
+[一键脚本搭建 V2ray 服务器教程](https://github.com/xiaobei2008/Shadowsocks/wiki/%E7%BE%8E%E5%9B%BDVPS-Hostwinds%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BAV2Ray%E6%9C%80%E6%96%B0%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B) （图文超详细，适合新手）
 
-一键脚本搭建 Brook 服务器教程 （新的翻墙方式，速度更快）
+[一键脚本搭建 Brook 服务器教程](https://github.com/xiaobei2008/Shadowsocks/wiki/%E6%9C%80%E6%96%B0VPS%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BABrook%E6%95%99%E7%A8%8B%EF%BC%8C%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) （新的翻墙方式，速度更快）
 
-[一键脚本搭建 WireGuard 服务器教程](https://github.com/xiaobei2008/Shadowsocks/blob/master/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAWireGuard.md)（新的翻墙方式，更安全）
+[一键脚本搭建 WireGuard 服务器教程](https://github.com/xiaobei2008/Shadowsocks/wiki/VPS-Vultr%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAWireGuard%E6%9C%80%E6%96%B0%E4%B8%AD%E6%96%87%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B)（新的翻墙方式，更安全）
 
 
 ## ===VPS推荐==
