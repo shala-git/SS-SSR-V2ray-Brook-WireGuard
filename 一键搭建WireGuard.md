@@ -286,7 +286,8 @@ cat /etc/wireguard/client.conf
 #### 其他剩余其他操作：
 
 ```
-# 赋予配置文件夹权限chmod 777 -R /etc/wireguard # 打开防火墙转发功能echo 1 > /proc/sys/net/ipv4/ip_forwardecho "net.ipv4.ip_forward = 1" >> /etc/sysctl.confsysctl -p
+# 赋予配置文件夹权限chmod 777 -R /etc/wireguard # 打开防火墙转发功能echo 1 > /proc/sys/net/ipv4/ip_forward
+echo "net.ipv4.ip_forward = 1" >> /etc/sysctl.confsysctl -p
 ```
 
 
